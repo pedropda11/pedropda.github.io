@@ -11,7 +11,7 @@ email: contacto@lamuina.com
 description: > # this means to ignore newlines until "baseurl:"
   Gracias por visitar mi sitio web personal
   Sigueme en twitter para enterarte de actualizaciones.
-baseurl: "/acerca" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lamuina.com" # the base hostname & protocol for your site
 twitter_username: pedro55324574
 github_username:  pedropda
